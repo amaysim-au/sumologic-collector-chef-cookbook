@@ -516,3 +516,4 @@ License and Authors
 -------------------
 Authors:
 	Ben Newton (ben@sumologic.com), Duc Ha (duc@sumologic.com)
+	Isaac Gittins (isaac.gittins@amaysim.com.au)
